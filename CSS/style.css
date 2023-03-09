@@ -128,6 +128,17 @@ button img {
     border-radius: 10px;
 }
 
+.itemConocimiento {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.barra {
+    margin: 0px;
+    padding: 0px;
+}
+
+
 @media (max-width: 700px) {
     #imgPrincipal {
         width: 40%;
@@ -161,8 +172,5 @@ button img {
     #rrss img {
         width: 45px;
         padding: 5px;
-    }
-    p{
-        font-size: 10px;
     }
 }
